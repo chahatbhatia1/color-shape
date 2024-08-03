@@ -74,7 +74,7 @@ function App() {
 
 	return (
 		<div>
-			<h1>Color/uncolor the shape</h1>
+			<h1>Color/uncolor the shape - test</h1>
 
          <div className="shape">
             {shapeMatrix.map((row, rowIndex) => (
